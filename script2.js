@@ -19,6 +19,4 @@ document.write(animals);
 var newfruit="mango/cherries/kiwi/grapes/pear/peach/orange/lemon";
 var temp= new Array();
 temp=newfruit.split("/");
-
-
-document.write(temp);
+document.write(temp.join("+"));
