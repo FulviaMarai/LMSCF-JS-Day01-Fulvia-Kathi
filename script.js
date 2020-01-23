@@ -4,4 +4,5 @@ var age=25;
 
 var team=["Martin","Thomas","Peter","Mathias","Niki"];
 
+
 	console.log("THe most valuable player of the match is "+team[2]);
