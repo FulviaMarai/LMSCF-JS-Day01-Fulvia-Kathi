@@ -30,3 +30,4 @@ document.write(tic[1][1]+br+tic[4][2]+br+tic[5][3]+br+tic[2][3]+br+tic[2][1]);
 
 
 
+
